@@ -20,7 +20,8 @@ public final class Student {
 
 	public enum Sex {
 		MALE,
-		FEMALE
+		FEMALE,
+		DIVERSE
 	}
 
 	private final String name;
